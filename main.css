@@ -200,7 +200,7 @@ nav a:hover {
 /* ############ */
 #services {
   min-height: 100vh;
-  background: url(./images/services.jpeg);
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(./images/services.jpeg);
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
